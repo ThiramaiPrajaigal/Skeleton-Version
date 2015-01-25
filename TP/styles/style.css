@@ -1,0 +1,33 @@
+*{margin:0;padding:0;}
+html,body{height:100%;width:auto}
+textarea{resize:none}
+a{cursor:pointer}
+
+.white_color{color:white}
+.tcenter{text-align:center}
+.tleft{text-align:left}
+body{font-family: 'Comfortaa';}
+
+.main_bg{background-color:#005A3F}
+.white_bg{background-color:#fff}
+.blue_bg{background-color:#0AB6E5;color:#222}
+.blue_color{color:#0AB6E5}
+
+.navbar-brand{padding:0px 10px;}
+.navbar-brand img{vertical-align:middle}
+
+header h1{font-size:35px}
+
+.custom_btn{font-size:17px}
+
+.about_us{font-size:18px;margin:20px 0px;}
+.join_us{font-size:17px;margin:20px 0px;border:1px solid #6A9177;width:250px;margin:0 auto;padding:20px;}
+.hide{display:none!important}
+
+.social_icons{background:url('../images/social.png');width:120px;background-size:cover;height:25px;display:inline-block;outline:none;border:0px none;}
+.team_title{margin:20px 0 50px 0;}
+.team_mem{display:inline-block;vertical-align:top}
+.team_name{display:none}
+.team_img{border-radius:60px;width:110px;height:110px;overflow:hidden;border:5px solid #fff;vertical-align:top}
+.team_mem:hover .team_name{display:block;font-size:25px}
+.contact{margin:10% 0}
